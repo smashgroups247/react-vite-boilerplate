@@ -1,1 +1,1 @@
-# Welcome To Smash Travels
+# React Vite Boilerplate
